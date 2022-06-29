@@ -1,2 +1,2 @@
-# sales-web
+# Sales Web
 Em construção...
