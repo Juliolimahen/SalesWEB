@@ -15,6 +15,7 @@ namespace SalesWebMvc.Models
         public SalesRecord()
         {
         }
+
         public SalesRecord(int id, DateTime date, float amount, SeleStatus status, Seller seller)
         {
             Id = id;

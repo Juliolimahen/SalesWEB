@@ -16,6 +16,7 @@ namespace SalesWebMvc.Models
         public Department()
         {
         }
+
         //gerar construtor com atributos que sejam coleções
         public Department(int id, string name)
         {
