@@ -18,9 +18,8 @@ namespace SalesWebMvc.Models
         }
 
         //gerar construtor com atributos que sejam coleções
-        public Department(int id, string name)
+        public Department(string name)
         {
-            Id = id;
             Name = name;
         }
 

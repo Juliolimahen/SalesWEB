@@ -2,10 +2,10 @@ using System;
 
 namespace SalesWebMvc.Models.Enums
 {
-    public enum SeleStatus : int
+    public enum SaleStatus : int
     {
         Pending = 0,
-        Belled = 1,
+        Billed = 1,
         Canceled= 2
     }
 }
