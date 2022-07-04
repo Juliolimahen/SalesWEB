@@ -1,5 +1,5 @@
 # Sales WEB
-[![NPM](https://img.shields.io/npm/l/react)](https://github.com/Juliolimahen/projeto-sds3/blob/main/LICENCE) 
+[![NPM](https://img.shields.io/npm/l/react)](https://github.com/Juliolimahen/sales-web/blob/main/LICENSE) 
 
 # Sobre o projeto
 
