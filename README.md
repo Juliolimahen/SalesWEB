@@ -15,7 +15,7 @@ O projeto consiste em um sistema de vendas online, com intuito introduzir o dese
 ![web 6](https://github.com/Juliolimahen/assets/blob/main/sales-web/sellers-create.png)
 ![web 7](https://github.com/Juliolimahen/assets/blob/main/sales-web/sales-record.png)
 ![web 8](https://github.com/Juliolimahen/assets/blob/main/sales-web/sales-simple-search.png)
-![web 9](https://github.com/Juliolimahen/assets/blob/main/sales-web/sales-simple-search.png)
+![web 9](https://github.com/Juliolimahen/assets/blob/main/sales-web/sales-group-search.png)
 ![web 10](https://github.com/Juliolimahen/assets/blob/main/sales-web/sales-group-search-1.png)
 
 ## Modelo conceitual
