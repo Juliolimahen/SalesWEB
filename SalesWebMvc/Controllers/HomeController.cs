@@ -12,6 +12,7 @@ namespace SalesWebMvc.Controllers
     {
         public IActionResult Index()
         {
+            ViewData["Message"] = "Welcome to our sales system";
             return View();
         }
 
